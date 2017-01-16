@@ -7,9 +7,9 @@ namespace TestExtention
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("enter eny text");
+            Console.WriteLine("Enter Your Text");
             string st = Console.ReadLine();
-            Console.WriteLine(new string('-', 30));
+            Console.WriteLine(new string('-', 50));
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine(st.ConvertEmoticons());
 
