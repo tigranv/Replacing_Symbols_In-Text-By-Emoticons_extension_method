@@ -1,6 +1,8 @@
-# Replacing Symbols In Text By Emoticons (extension method) <img src="https://cloud.githubusercontent.com/assets/24522089/21962098/41a510c8-db36-11e6-95ef-eb392a0a1919.png" align="right" width="150px" height="150px" /> 
-## Use this method to convert symbols to Emoticons   
-The method provides an opportunity to replace following combinations of symbols by corresponding emoticons
+# Replacing Symbols By Emoticons (extension method) <img src="https://cloud.githubusercontent.com/assets/24522089/21962098/41a510c8-db36-11e6-95ef-eb392a0a1919.png" align="right" width="150px" height="150px" /> 
+### Use this method to convert symbols  in Your text to corecponding Emoticons
+![emoticonsextention](https://cloud.githubusercontent.com/assets/24522089/22002273/06224dca-dc64-11e6-85f2-62f157775b25.gif)
+
+## The method provides an opportunity to replace following combinations of symbols by corresponding emoticons
 
 * :) or :-) to  
 
@@ -24,10 +26,7 @@ class Program
     }
 }
 ```
-## Simple Usage
-Instead of instantiating individual Random objects, I recommend that you create a single Random instance to generate all the random numbers needed by your app.
+> This project written on C# 2015 .NET Framework 4.6
 
-> This class library written on C# 2015 .NET Framework 4.6
 
-Use this method to convert symbols to Emoticons
-![emoticonsextention](https://cloud.githubusercontent.com/assets/24522089/22002273/06224dca-dc64-11e6-85f2-62f157775b25.gif)
+
