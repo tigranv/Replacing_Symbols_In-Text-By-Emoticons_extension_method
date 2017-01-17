@@ -4,7 +4,10 @@
 
 ### Method supports replacement of following combinations of symbols 
 
-* :) or :-) to  &#128512;
+* :) or :-) to  &#9786;
+* :( or :-( to  &#9785;
+* -> or :--> to  &#9755;
+* <- or :<-- to  &#9754;
 
 ## How To Use
 Just add [This] (https://github.com/tigranv/Replacing_Symbols_In-Text-By-Emoticons_extension_method/blob/master/EmoticonsConverter/EmoticonsConverter/ConvertEmoticonsExtention.cs) extention method to Your class or use it like class lybrary, and call method **ReplaceEmoticons()**  in any string.
