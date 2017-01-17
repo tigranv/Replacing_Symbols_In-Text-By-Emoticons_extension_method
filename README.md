@@ -7,8 +7,8 @@
 * :) or :-) to  
 
 ## How To Use
-Just add [This] (https://github.com/tigranv/Replacing_Symbols_In-Text-By-Emoticons_extension_method/blob/master/EmoticonsConverter/EmoticonsConverter/ConvertEmoticonsExtention.cs) extention method to Your class or use it like class lybrary, and call method **ReplaceEmoticons()** method in eny string.
-If You are using method in console application You need activate console unicode fonts, see how to do that [here] (http://stackoverflow.com/questions/5750203/how-to-write-unicode-characters-to-the-console)   
+Just add [This] (https://github.com/tigranv/Replacing_Symbols_In-Text-By-Emoticons_extension_method/blob/master/EmoticonsConverter/EmoticonsConverter/ConvertEmoticonsExtention.cs) extention method to Your class or use it like class lybrary, and call method **ReplaceEmoticons()**  in any string.
+If You are using method in console application You need to activate console unicode fonts, see how to do that [here] (http://stackoverflow.com/questions/5750203/how-to-write-unicode-characters-to-the-console)   
 
 > The example of using this method in c# console application is
 ```c#
