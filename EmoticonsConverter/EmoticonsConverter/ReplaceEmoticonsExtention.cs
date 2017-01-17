@@ -1,9 +1,9 @@
 ﻿namespace EmoticonsConverter
 {
-    public static class ConvertEmoticonsExtention
+    public static class ReplaceEmoticonsExtention
     {
         // Extention method 
-        public static string ConvertEmoticons(this string value)
+        public static string ReplaceEmoticons(this string value)
         {
             string NewValue = string.Empty;
             for (int i = 0; i < value.Length; i++)

@@ -11,7 +11,7 @@ namespace TestExtention
             string st = Console.ReadLine();
             Console.WriteLine(new string('-', 50));
             Console.OutputEncoding = System.Text.Encoding.UTF8;
-            Console.WriteLine(st.ConvertEmoticons());
+            Console.WriteLine(st.ReplaceEmoticons());
 
             Console.ReadKey();
         }
