@@ -13,6 +13,16 @@ namespace TestExtention
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine(st.ReplaceEmoticons());
 
+            // // to replace symbols in file documents, use 
+            //Console.WriteLine("Enter file directory");
+            //StreamReader sr = File.OpenText(@"C:\Users\Tigran PC\Desktop\TestDirectory\replaceemoticons.txt");
+            //string st = "";
+            //string line = "";
+            //while ((line = sr.ReadLine()) != null)
+            //{
+            //    st+= st+"\n";
+            //}
+
             Console.ReadKey();
         }
     }
