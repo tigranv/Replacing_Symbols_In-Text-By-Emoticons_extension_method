@@ -35,9 +35,11 @@ class Program
 
 My another project for converting  [latin letters to armenian] (https://github.com/tigranv/Useful-examples/tree/master/LatinToArmenianConverter)
 
-![lattoarm](https://cloud.githubusercontent.com/assets/24522089/21999629/84782556-dc54-11e6-87df-d6780b7d9649.gif)
+> Smart converter
 
 ![lattoarmtrans](https://cloud.githubusercontent.com/assets/24522089/22148893/2b804eaa-df2a-11e6-80f3-2347ddc75dfc.png)
+
+![lattoarm](https://cloud.githubusercontent.com/assets/24522089/21999629/84782556-dc54-11e6-87df-d6780b7d9649.gif)
 
 
 > This project written on C# 6.0, .NET Framework 4.6 Visual Studio 2015 Comunity Edition
