@@ -15,13 +15,15 @@ namespace TestExtention
 
             // // to replace symbols in file documents, use 
             //Console.WriteLine("Enter file directory");
-            //StreamReader sr = File.OpenText(@"C:\Users\Tigran PC\Desktop\TestDirectory\replaceemoticons.txt");
+            //StreamReader sr = File.OpenText(@"directory");
             //string st = "";
             //string line = "";
             //while ((line = sr.ReadLine()) != null)
             //{
             //    st+= st+"\n";
             //}
+            
+            //st.ReplaceEmoticons()
 
             Console.ReadKey();
         }
