@@ -1,8 +1,10 @@
 # Replacing Symbols By Emoticons (ext. method) <img src="https://cloud.githubusercontent.com/assets/24522089/21962098/41a510c8-db36-11e6-95ef-eb392a0a1919.png" align="right" width="130px" height="130px" /> 
-### This method provides an opportunity to replace symbols in latin text by corresponding [Unicode Emoticons] (https://en.wikipedia.org/wiki/Emoticons_(Unicode_block))
+
+This method provides an opportunity to replace symbols in latin text by corresponding [Unicode Emoticons] (https://en.wikipedia.org/wiki/Emoticons_(Unicode_block))
+
 ![emoticonsext](https://cloud.githubusercontent.com/assets/24522089/22016876/41975f82-dcc1-11e6-9d41-d1f42d06c7d4.gif)
 
-### Method supports replacement of following combinations of symbols 
+> Method supports replacement of following combinations of symbols 
 
 * :) or :-) to  &#128522;
 * :( or :-( to  &#9785;
